@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+.logo {
+    text-indent: -999999px;
+    background: url("logo.PNG");
+    width: 1400px;
+    height: 877px;
+    position: absolute;
+}
+
+p{
+    font-style: italic;
+    font-size: xx-large;
+    color: red;
+    text-align: center;
+}
